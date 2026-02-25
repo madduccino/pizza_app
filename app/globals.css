@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --pizza-red: #c0392b;
+  --pizza-red-dark: #96281b;
+  --pizza-orange: #e67e22;
+  --pizza-yellow: #f1c40f;
+  --pizza-green: #27ae60;
+  --pizza-cream: #fef9f0;
+}
+
+body {
+  background-color: var(--pizza-cream);
+  color: #1a1a1a;
+  font-family: 'Georgia', serif;
+}
+
+.star-filled {
+  color: var(--pizza-yellow);
+}
+
+.star-empty {
+  color: #d1d5db;
+}
+
+.rating-bar-fill {
+  transition: width 0.5s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--pizza-red);
+  border-radius: 3px;
+}

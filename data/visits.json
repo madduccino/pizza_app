@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "shopId": "1",
+    "date": "2024-11-10",
+    "style": "NY Slice",
+    "photoUrl": "",
+    "ratings": {
+      "overall": 4.5,
+      "dough": 5,
+      "sauce": 4,
+      "cheese": 4.5,
+      "foldability": 5
+    },
+    "comment": "Classic NY fold, perfect char on the crust. Sauce is tangy and light. This is the benchmark slice."
+  },
+  {
+    "id": "2",
+    "shopId": "1",
+    "date": "2024-09-05",
+    "style": "NY Slice",
+    "photoUrl": "",
+    "ratings": {
+      "overall": 4.5,
+      "dough": 4.5,
+      "sauce": 4.5,
+      "cheese": 4,
+      "foldability": 5
+    },
+    "comment": "Consistent as ever. The dough was slightly different batch but still excellent."
+  },
+  {
+    "id": "3",
+    "shopId": "2",
+    "date": "2024-10-22",
+    "style": "NY Slice",
+    "photoUrl": "",
+    "ratings": {
+      "overall": 5,
+      "dough": 5,
+      "sauce": 5,
+      "cheese": 5,
+      "foldability": 4.5
+    },
+    "comment": "Dom's masterpiece. Worth every penny and the wait. The fresh basil on top is a game changer."
+  },
+  {
+    "id": "4",
+    "shopId": "2",
+    "date": "2024-06-14",
+    "style": "Sicilian",
+    "photoUrl": "",
+    "ratings": {
+      "overall": 4.5,
+      "dough": 5,
+      "sauce": 4.5,
+      "cheese": 4,
+      "foldability": 2
+    },
+    "comment": "The square slice is thick and airy. Not as foldable but the flavors are unreal."
+  },
+  {
+    "id": "5",
+    "shopId": "3",
+    "date": "2024-12-01",
+    "style": "NY Slice",
+    "photoUrl": "",
+    "ratings": {
+      "overall": 4,
+      "dough": 4,
+      "sauce": 4.5,
+      "cheese": 3.5,
+      "foldability": 4
+    },
+    "comment": "Old school Harlem spot. Sauce has great depth of flavor. Cheese ratio could be better."
+  },
+  {
+    "id": "6",
+    "shopId": "3",
+    "date": "2024-08-30",
+    "style": "Pepperoni Slice",
+    "photoUrl": "",
+    "ratings": {
+      "overall": 4,
+      "dough": 4,
+      "sauce": 4,
+      "cheese": 4,
+      "foldability": 4
+    },
+    "comment": "Crispy pepperoni cups, solid all around. Very consistent slice."
+  },
+  {
+    "id": "7",
+    "shopId": "1",
+    "date": "2025-01-15",
+    "style": "White Slice",
+    "photoUrl": "",
+    "ratings": {
+      "overall": 4,
+      "dough": 4.5,
+      "sauce": 0,
+      "cheese": 4.5,
+      "foldability": 4.5
+    },
+    "comment": "No sauce but the ricotta and mozzarella blend was excellent. Garlic oil base was perfect."
+  },
+  {
+    "id": "8",
+    "shopId": "2",
+    "date": "2025-02-10",
+    "style": "NY Slice",
+    "photoUrl": "",
+    "ratings": {
+      "overall": 5,
+      "dough": 5,
+      "sauce": 5,
+      "cheese": 5,
+      "foldability": 4.5
+    },
+    "comment": "Back again and still the GOAT. Every single bite is perfection."
+  }
+]

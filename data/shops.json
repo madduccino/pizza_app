@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Joe's Pizza",
+    "address": "7 Carmine St, New York, NY 10014",
+    "zipCode": "10014",
+    "photoUrl": "",
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Di Fara Pizza",
+    "address": "1424 Avenue J, Brooklyn, NY 11230",
+    "zipCode": "11230",
+    "photoUrl": "",
+    "createdAt": "2024-02-20T00:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Patsy's Pizzeria",
+    "address": "2287 1st Ave, New York, NY 10035",
+    "zipCode": "10035",
+    "photoUrl": "",
+    "createdAt": "2024-03-10T00:00:00Z"
+  }
+]
