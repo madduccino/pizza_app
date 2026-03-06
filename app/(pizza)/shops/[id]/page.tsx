@@ -86,7 +86,7 @@ export default async function ShopPage({ params }: ShopPageProps) {
       {visits.length === 0 ? (
         <div className="text-center py-16 text-gray-400">
           <p>No visits recorded yet.</p>
-          <Link href="/admin/add-rating" className="text-[#c0392b] hover:underline text-sm mt-2 inline-block">
+          <Link href="/pizza-admin/add-rating" className="text-[#c0392b] hover:underline text-sm mt-2 inline-block">
             Add a rating →
           </Link>
         </div>

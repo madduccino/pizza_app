@@ -26,7 +26,7 @@ export default function AdminPage() {
 
       {/* Actions */}
       <div className="grid gap-4 md:grid-cols-2">
-        <Link href="/admin/add-shop">
+        <Link href="/pizza-admin/add-shop">
           <div className="bg-white rounded-2xl border border-gray-200 hover:border-[#c0392b] hover:shadow-md transition-all p-6 cursor-pointer group">
             <div className="text-3xl mb-3">🏪</div>
             <h2 className="text-lg font-bold text-gray-800 group-hover:text-[#c0392b] transition-colors">
@@ -36,7 +36,7 @@ export default function AdminPage() {
           </div>
         </Link>
 
-        <Link href="/admin/add-rating">
+        <Link href="/pizza-admin/add-rating">
           <div className="bg-white rounded-2xl border border-gray-200 hover:border-[#c0392b] hover:shadow-md transition-all p-6 cursor-pointer group">
             <div className="text-3xl mb-3">⭐</div>
             <h2 className="text-lg font-bold text-gray-800 group-hover:text-[#c0392b] transition-colors">

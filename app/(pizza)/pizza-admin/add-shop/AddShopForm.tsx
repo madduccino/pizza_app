@@ -132,7 +132,7 @@ export default function AddShopForm() {
           {loading ? 'Adding…' : 'Add Shop'}
         </button>
         <a
-          href="/admin"
+          href="/pizza-admin"
           className="px-6 py-3 rounded-lg border border-gray-300 text-sm text-gray-600 hover:bg-gray-50 transition-colors text-center"
         >
           Cancel
