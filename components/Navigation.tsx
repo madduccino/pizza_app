@@ -12,7 +12,7 @@ export default function Navigation() {
     { href: '/', label: 'Home' },
     { href: '/shops', label: 'Pizza Shops' },
     { href: '/about', label: 'About' },
-    { href: '/admin', label: 'Admin' },
+    { href: '/pizza-admin', label: 'Admin' },
   ];
 
   return (

@@ -139,7 +139,7 @@ export default function AddRatingForm({ shops }: AddRatingFormProps) {
         </label>
         {shops.length === 0 ? (
           <p className="text-sm text-red-500">
-            No shops in system. <a href="/admin/add-shop" className="underline">Add one first.</a>
+            No shops in system. <a href="/pizza-admin/add-shop" className="underline">Add one first.</a>
           </p>
         ) : (
           <select
@@ -258,7 +258,7 @@ export default function AddRatingForm({ shops }: AddRatingFormProps) {
           {loading ? 'Saving…' : 'Save Rating'}
         </button>
         <a
-          href="/admin"
+          href="/pizza-admin"
           className="px-6 py-3 rounded-lg border border-gray-300 text-sm text-gray-600 hover:bg-gray-50 transition-colors text-center"
         >
           Cancel
